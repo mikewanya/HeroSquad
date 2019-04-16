@@ -29,11 +29,11 @@ The contributors of this project were:
 | The user requests for the squad data | Squad info is retyreived | The user is given the squad data.           |
 ```
 
-## Know bugs
+## Know bugs:
 ```
 No bugs.
 ```
 
-## Licencing
+## Licencing:
 
 [MIT License](https://choosealicense.com/licenses/mit/)
