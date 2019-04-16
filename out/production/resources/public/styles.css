@@ -7,10 +7,19 @@ body{
   background-repeat: no-repeat;
 }
 
-h1{
-  font-family: 'Aclonica', sans-serif;
-  font-size: 1.5em;
+.intro{
+    background-color: black;
 }
+
+.space{
+    padding: 20px;}
+
+.center{
+    align: center;
+}
+
+.container{
+    background-color: red;}
 
 .form-control{
   width: 25em;
