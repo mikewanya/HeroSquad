@@ -1,0 +1,25 @@
+    <div class="container">
+
+     <center>
+     <h1>MY SQUAD </h1>
+         <table>
+                 <tr>
+                      <th> Name </th>
+                      <th> Age </th>
+                      <th> SuperPower </th>
+                      <th> Weakness </th>
+                  </tr>
+                  <tr>
+                     #foreach ($hero in $heroes)
+                    <td> $hero.getmName() </td>
+                    <td> $hero.getmAge() </td>
+                    <td> $hero.getmSuperpower()</td>
+                    <td> $hero.getmWeakness() </td>
+                  </tr>
+                    #end
+            </table>
+         <a href='/hero'>ADD HERO</a>
+         <br>
+         <a href='/'>HOME</a>
+         </center>
+    </div>
