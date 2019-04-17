@@ -23,10 +23,10 @@ The contributors of this project were:
 ```
 | Input                                | Behaviour                                        | Output                                      |
 |--------------------------------------|--------------------------------------------------|---------------------------------------------|
-| User makes page request           | The application searches for the index file      | The user is taken to the home page |
-| Option to "Add hero"           | The application looks for the input form.        | User fills form            |
-|  "Submit" the form             | User data is retreived       | DAta is stored                 |
-| The user requests for the squad data | Squad info is retyreived | The user is given the squad data.           |
+| User makes page request              | The application searches for the index file      | The user is taken to the home page |
+| Option to "Add hero"                 | The application looks for the input form.        | User fills form            |
+|  "Submit" the form                   | User data is retreived                           | DAta is stored                 |
+| The user requests for the squad data | Squad info is retyreived                         | The user is given the squad data.           |
 ```
 
 ## Know bugs:

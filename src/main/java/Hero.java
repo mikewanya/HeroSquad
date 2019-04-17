@@ -6,7 +6,7 @@ public class Hero {
     private String mAge;
     private String mSuperpower;
     private String mWeakness;
-    private  String mCause;
+    private String mCause;
 
     public Hero(String name, String age, String superpower, String weakness ,String cause) {
         mName = name;
